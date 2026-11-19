@@ -1,0 +1,2486 @@
+{
+  "id": 6,
+  "title": "Bài 6",
+  "subtitle": "我学习汉语 · 60 câu giao tiếp & từ vựng",
+  "sentences": [
+    {
+      "id": "L6_001",
+      "num": 1,
+      "code": "001",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 001 – XIN HỎI QUÝ DANH",
+      "zh": "请问，您贵姓？",
+      "pinyin": "Qǐngwèn, nín guìxìng?",
+      "vi": "Xin hỏi, ngài mang quý danh gì ạ?",
+      "chunks": [
+        {
+          "zh": "请问，",
+          "pinyin": "Qǐngwèn,",
+          "meaning": "xin hỏi,"
+        },
+        {
+          "zh": "您贵姓？",
+          "pinyin": "nín guìxìng?",
+          "meaning": "ngài họ gì ạ?"
+        }
+      ],
+      "notes": [
+        "<strong>Cách hỏi lịch sự:</strong> Dùng <strong>请问 (qǐngwèn)</strong> trước câu hỏi để bày tỏ sự tôn trọng và lễ phép.",
+        "<strong>Quý tính:</strong> <strong>贵姓 (guìxìng)</strong> dùng hỏi họ của người đối thoại một cách kính cẩn."
+      ],
+      "vocab": [
+        {
+          "zh": "请问",
+          "pinyin": "qǐngwèn",
+          "meaning": "xin hỏi"
+        },
+        {
+          "zh": "您",
+          "pinyin": "nín",
+          "meaning": "ngài, ông, bà (kính trọng)"
+        },
+        {
+          "zh": "贵姓",
+          "pinyin": "guìxìng",
+          "meaning": "quý danh, quý tính"
+        }
+      ]
+    },
+    {
+      "id": "L6_002",
+      "num": 2,
+      "code": "002",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 002 – HỎI THẦY CÔ",
+      "zh": "我想问老师一个问题。",
+      "pinyin": "Wǒ xiǎng wèn lǎoshī yí ge wèntí.",
+      "vi": "Em muốn hỏi thầy giáo một câu hỏi.",
+      "chunks": [
+        {
+          "zh": "我想问老师",
+          "pinyin": "Wǒ xiǎng wèn lǎoshī",
+          "meaning": "em muốn hỏi thầy giáo"
+        },
+        {
+          "zh": "一个问题。",
+          "pinyin": "yí ge wèntí.",
+          "meaning": "một câu hỏi."
+        }
+      ],
+      "notes": [
+        "<strong>Động từ 问 (wèn):</strong> Nghĩa là 'hỏi', có kết cấu <em>问 + ai đó + điều gì</em>.",
+        "<strong>Biến điệu chữ 一 (yī):</strong> Đi trước thanh 4 đọc thành thanh 2: <strong>一个 (yí ge)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "问",
+          "pinyin": "wèn",
+          "meaning": "hỏi"
+        },
+        {
+          "zh": "想",
+          "pinyin": "xiǎng",
+          "meaning": "muốn"
+        },
+        {
+          "zh": "问题",
+          "pinyin": "wèntí",
+          "meaning": "câu hỏi, vấn đề"
+        }
+      ]
+    },
+    {
+      "id": "L6_003",
+      "num": 3,
+      "code": "003",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 003 – HỎI QUÝ TÍNH LỊCH THIỆP",
+      "zh": "张老师，请问您贵姓？",
+      "pinyin": "Zhāng lǎoshī, qǐngwèn nín guìxìng?",
+      "vi": "Thầy Trương, xin hỏi quý danh của ngài ạ?",
+      "chunks": [
+        {
+          "zh": "张老师，",
+          "pinyin": "Zhāng lǎoshī,",
+          "meaning": "thầy Trương,"
+        },
+        {
+          "zh": "请问您贵姓？",
+          "pinyin": "qǐngwèn nín guìxìng?",
+          "meaning": "xin hỏi quý danh của ngài?"
+        }
+      ],
+      "notes": [
+        "<strong>Văn hóa giao tiếp Trung Hoa:</strong> Khi mới làm quen người lớn tuổi hoặc đối tác, người ta hỏi <strong>您贵姓 (nín guìxìng)</strong> thay vì hỏi thẳng tên."
+      ],
+      "vocab": [
+        {
+          "zh": "贵姓",
+          "pinyin": "guìxìng",
+          "meaning": "quý danh"
+        },
+        {
+          "zh": "张",
+          "pinyin": "Zhāng",
+          "meaning": "họ Trương"
+        }
+      ]
+    },
+    {
+      "id": "L6_004",
+      "num": 4,
+      "code": "004",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 004 – TRẢ LỜI DÒNG HỌ",
+      "zh": "我姓张，他不姓王。",
+      "pinyin": "Wǒ xìng Zhāng, tā bú xìng Wáng.",
+      "vi": "Tôi họ Trương, anh ấy không họ Vương.",
+      "chunks": [
+        {
+          "zh": "我姓张，",
+          "pinyin": "Wǒ xìng Zhāng,",
+          "meaning": "tôi họ Trương,"
+        },
+        {
+          "zh": "他不姓王。",
+          "pinyin": "tā bú xìng Wáng.",
+          "meaning": "anh ấy không họ Vương."
+        }
+      ],
+      "notes": [
+        "<strong>Cách dùng 姓:</strong> Vừa là danh từ vừa là động từ mang họ: <strong>我姓... (Tôi mang họ...)</strong>, phủ định là <strong>不姓 (bú xìng)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "姓",
+          "pinyin": "xìng",
+          "meaning": "họ (danh từ, động từ)"
+        },
+        {
+          "zh": "张",
+          "pinyin": "Zhāng",
+          "meaning": "họ Trương"
+        },
+        {
+          "zh": "王",
+          "pinyin": "Wáng",
+          "meaning": "họ Vương"
+        }
+      ]
+    },
+    {
+      "id": "L6_005",
+      "num": 5,
+      "code": "005",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 005 – TÊN GỌI BẢN THÂN",
+      "zh": "我叫张东，你叫什么名字？",
+      "pinyin": "Wǒ jiào Zhāng Dōng, nǐ jiào shénme míngzi?",
+      "vi": "Tôi tên là Trương Đông, bạn tên là gì?",
+      "chunks": [
+        {
+          "zh": "我叫张东，",
+          "pinyin": "Wǒ jiào Zhāng Dōng,",
+          "meaning": "tôi tên là Trương Đông,"
+        },
+        {
+          "zh": "你叫什么名字？",
+          "pinyin": "nǐ jiào shénme míngzi?",
+          "meaning": "bạn tên là gì?"
+        }
+      ],
+      "notes": [
+        "<strong>Cấu trúc hỏi tên:</strong> <strong>你叫什么名字？</strong> là câu hỏi tên thông dụng nhất trong tiếng Trung."
+      ],
+      "vocab": [
+        {
+          "zh": "叫",
+          "pinyin": "jiào",
+          "meaning": "gọi là, tên là"
+        },
+        {
+          "zh": "张东",
+          "pinyin": "Zhāng Dōng",
+          "meaning": "Trương Đông"
+        },
+        {
+          "zh": "名字",
+          "pinyin": "míngzi",
+          "meaning": "tên"
+        }
+      ]
+    },
+    {
+      "id": "L6_006",
+      "num": 6,
+      "code": "006",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 006 – TÊN HAY Ý ĐẸP",
+      "zh": "他的名字很好听。",
+      "pinyin": "Tā de míngzi hěn hǎotīng.",
+      "vi": "Tên của anh ấy nghe rất hay.",
+      "chunks": [
+        {
+          "zh": "他的名字",
+          "pinyin": "Tā de míngzi",
+          "meaning": "tên của anh ấy"
+        },
+        {
+          "zh": "很好听。",
+          "pinyin": "hěn hǎotīng.",
+          "meaning": "nghe rất hay."
+        }
+      ],
+      "notes": [
+        "<strong>Thanh nhẹ:</strong> Chữ <strong>字 (zi)</strong> trong <em>名字</em> đọc thanh nhẹ, ngắn và nhẹ nhàng.",
+        "<strong>Tính từ 好听 (hǎotīng):</strong> Có nghĩa là 'nghe hay, êm tai'."
+      ],
+      "vocab": [
+        {
+          "zh": "名字",
+          "pinyin": "míngzi",
+          "meaning": "tên"
+        },
+        {
+          "zh": "好听",
+          "pinyin": "hǎotīng",
+          "meaning": "dễ nghe, hay"
+        }
+      ]
+    },
+    {
+      "id": "L6_007",
+      "num": 7,
+      "code": "007",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 007 – HỎI NƯỚC BẠN",
+      "zh": "你是哪国人？",
+      "pinyin": "Nǐ shì nǎ guó rén?",
+      "vi": "Bạn là người nước nào?",
+      "chunks": [
+        {
+          "zh": "你是",
+          "pinyin": "Nǐ shì",
+          "meaning": "bạn là"
+        },
+        {
+          "zh": "哪国人？",
+          "pinyin": "nǎ guó rén?",
+          "meaning": "người nước nào?"
+        }
+      ],
+      "notes": [
+        "<strong>Đại từ nghi vấn 哪 (nǎ):</strong> Dùng để hỏi lựa chọn 'nào'. Cấu trúc: <em>哪 + Lượng từ/Danh từ</em>, ví dụ: <strong>哪国人 (người nước nào)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "哪",
+          "pinyin": "nǎ",
+          "meaning": "nào"
+        },
+        {
+          "zh": "国",
+          "pinyin": "guó",
+          "meaning": "quốc gia, nước"
+        },
+        {
+          "zh": "人",
+          "pinyin": "rén",
+          "meaning": "người"
+        }
+      ]
+    },
+    {
+      "id": "L6_008",
+      "num": 8,
+      "code": "008",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 008 – QUỐC GIA TRUNG HOA",
+      "zh": "我是中国人，我住北京。",
+      "pinyin": "Wǒ shì Zhōngguó rén, wǒ zhù Běijīng.",
+      "vi": "Tôi là người Trung Quốc, tôi sống ở Bắc Kinh.",
+      "chunks": [
+        {
+          "zh": "我是中国人，",
+          "pinyin": "Wǒ shì Zhōngguó rén,",
+          "meaning": "tôi là người Trung Quốc,"
+        },
+        {
+          "zh": "我住北京。",
+          "pinyin": "wǒ zhù Běijīng.",
+          "meaning": "tôi sống ở Bắc Kinh."
+        }
+      ],
+      "notes": [
+        "<strong>Tên quốc gia + 人:</strong> Chỉ quốc tịch của một người: <strong>中国人 (người Trung Quốc)</strong>, <strong>越南人 (người Việt Nam)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "nước Trung Quốc"
+        },
+        {
+          "zh": "住",
+          "pinyin": "zhù",
+          "meaning": "sống, ở"
+        },
+        {
+          "zh": "北京",
+          "pinyin": "Běijīng",
+          "meaning": "Bắc Kinh"
+        }
+      ]
+    },
+    {
+      "id": "L6_009",
+      "num": 9,
+      "code": "009",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 009 – NGƯỜI NƯỚC ĐỨC HỌC TIẾNG TRUNG",
+      "zh": "他是德国人，他学中文。",
+      "pinyin": "Tā shì Déguó rén, tā xué Zhōngwén.",
+      "vi": "Anh ấy là người Đức, anh ấy học tiếng Trung.",
+      "chunks": [
+        {
+          "zh": "他是德国人，",
+          "pinyin": "Tā shì Déguó rén,",
+          "meaning": "anh ấy là người Đức,"
+        },
+        {
+          "zh": "他学中文。",
+          "pinyin": "tā xué Zhōngwén.",
+          "meaning": "anh ấy học tiếng Trung."
+        }
+      ],
+      "notes": [
+        "<strong>Tên nước Đức:</strong> <strong>德国 (Déguó)</strong>, ngôn ngữ tiếng Đức là <strong>德文 (Déwén)</strong> hoặc <strong>德语 (Déyǔ)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "德国",
+          "pinyin": "Déguó",
+          "meaning": "nước Đức"
+        },
+        {
+          "zh": "中文",
+          "pinyin": "Zhōngwén",
+          "meaning": "tiếng Trung"
+        }
+      ]
+    },
+    {
+      "id": "L6_010",
+      "num": 10,
+      "code": "010",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 010 – NƯỚC NGA RỘNG LỚN",
+      "zh": "她是俄国人，俄国很大。",
+      "pinyin": "Tā shì Éguó rén, Éguó hěn dà.",
+      "vi": "Cô ấy là người Nga, nước Nga rất rộng lớn.",
+      "chunks": [
+        {
+          "zh": "她是俄国人，",
+          "pinyin": "Tā shì Éguó rén,",
+          "meaning": "cô ấy là người Nga,"
+        },
+        {
+          "zh": "俄国很大。",
+          "pinyin": "Éguó hěn dà.",
+          "meaning": "nước Nga rất rộng lớn."
+        }
+      ],
+      "notes": [
+        "<strong>Đất nước Nga:</strong> <strong>俄国 (Éguó)</strong> hoặc <strong>俄罗斯 (Éluósī)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "俄国",
+          "pinyin": "Éguó",
+          "meaning": "nước Nga"
+        },
+        {
+          "zh": "大",
+          "pinyin": "dà",
+          "meaning": "to, lớn"
+        }
+      ]
+    },
+    {
+      "id": "L6_011",
+      "num": 11,
+      "code": "011",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 011 – NƯỚC HOA PHÁP NỔI TIẾNG",
+      "zh": "这是法国香水，很有名。",
+      "pinyin": "Zhè shì Fǎguó xiāngshuǐ, hěn yǒumíng.",
+      "vi": "Đây là nước hoa của Pháp, rất nổi tiếng.",
+      "chunks": [
+        {
+          "zh": "这是法国香水，",
+          "pinyin": "Zhè shì Fǎguó xiāngshuǐ,",
+          "meaning": "đây là nước hoa Pháp,"
+        },
+        {
+          "zh": "很有名。",
+          "pinyin": "hěn yǒumíng.",
+          "meaning": "rất nổi tiếng."
+        }
+      ],
+      "notes": [
+        "<strong>Đất nước Pháp:</strong> <strong>法国 (Fǎguó)</strong>, tiếng Pháp là <strong>法文 (Fǎwén)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "法国",
+          "pinyin": "Fǎguó",
+          "meaning": "nước Pháp"
+        },
+        {
+          "zh": "香水",
+          "pinyin": "xiāngshuǐ",
+          "meaning": "nước hoa"
+        },
+        {
+          "zh": "有名",
+          "pinyin": "yǒumíng",
+          "meaning": "nổi tiếng"
+        }
+      ]
+    },
+    {
+      "id": "L6_012",
+      "num": 12,
+      "code": "012",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 012 – BẠN BÈ HÀN QUỐC",
+      "zh": "我的韩国朋友学习汉语。",
+      "pinyin": "Wǒ de Hánguó péngyou xuéxí Hànyǔ.",
+      "vi": "Bạn Hàn Quốc của tôi học tiếng Hán.",
+      "chunks": [
+        {
+          "zh": "我的韩国朋友",
+          "pinyin": "Wǒ de Hánguó péngyou",
+          "meaning": "người bạn Hàn Quốc của tôi"
+        },
+        {
+          "zh": "学习汉语。",
+          "pinyin": "xuéxí Hànyǔ.",
+          "meaning": "học tiếng Hán."
+        }
+      ],
+      "notes": [
+        "<strong>Cụm danh từ định ngữ:</strong> <strong>韩国朋友 (Hánguó péngyou)</strong> là 'bạn người Hàn Quốc'."
+      ],
+      "vocab": [
+        {
+          "zh": "韩国",
+          "pinyin": "Hánguó",
+          "meaning": "Hàn Quốc"
+        },
+        {
+          "zh": "朋友",
+          "pinyin": "péngyou",
+          "meaning": "bạn bè"
+        },
+        {
+          "zh": "学习",
+          "pinyin": "xuéxí",
+          "meaning": "học tập"
+        }
+      ]
+    },
+    {
+      "id": "L6_013",
+      "num": 13,
+      "code": "013",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 013 – LƯU HỌC SINH MỸ",
+      "zh": "麦克是美国人，他是留学生。",
+      "pinyin": "Màikè shì Měiguó rén, tā shì liúxuéshēng.",
+      "vi": "Mike là người Mỹ, anh ấy là lưu học sinh.",
+      "chunks": [
+        {
+          "zh": "麦克是美国人，",
+          "pinyin": "Màikè shì Měiguó rén,",
+          "meaning": "Mike là người Mỹ,"
+        },
+        {
+          "zh": "他是留学生。",
+          "pinyin": "tā shì liúxuéshēng.",
+          "meaning": "anh ấy là lưu học sinh."
+        }
+      ],
+      "notes": [
+        "<strong>Mỹ:</strong> <strong>美国 (Měiguó)</strong> mang nghĩa 'xứ sở tươi đẹp', người Mỹ là <strong>美国人</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "美国",
+          "pinyin": "Měiguó",
+          "meaning": "Nước Mỹ"
+        },
+        {
+          "zh": "麦克",
+          "pinyin": "Màikè",
+          "meaning": "Mike"
+        },
+        {
+          "zh": "留学生",
+          "pinyin": "liúxuéshēng",
+          "meaning": "du học sinh"
+        }
+      ]
+    },
+    {
+      "id": "L6_014",
+      "num": 14,
+      "code": "014",
+      "lesson": 6,
+      "category": "Phủ định",
+      "topic": "BÀI 6 · CÂU 014 – LÀM VIỆC TẠI NHẬT",
+      "zh": "他在日本工作，不是日本人。",
+      "pinyin": "Tā zài Rìběn gōngzuò, bú shì Rìběn rén.",
+      "vi": "Anh ấy làm việc ở Nhật Bản, không phải người Nhật.",
+      "chunks": [
+        {
+          "zh": "他在日本工作，",
+          "pinyin": "Tā zài Rìběn gōngzuò,",
+          "meaning": "anh ấy làm việc tại Nhật Bản,"
+        },
+        {
+          "zh": "不是日本人。",
+          "pinyin": "bú shì Rìběn rén.",
+          "meaning": "không phải người Nhật Bản."
+        }
+      ],
+      "notes": [
+        "<strong>Đất nước Nhật Bản:</strong> <strong>日本 (Rìběn)</strong>, thêm chữ 国 là <strong>日本国</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "日本（国）",
+          "pinyin": "Rìběn (guó)",
+          "meaning": "Nhật Bản"
+        },
+        {
+          "zh": "日本",
+          "pinyin": "Rìběn",
+          "meaning": "nước Nhật Bản"
+        },
+        {
+          "zh": "工作",
+          "pinyin": "gōngzuò",
+          "meaning": "làm việc"
+        },
+        {
+          "zh": "不是",
+          "pinyin": "bú shì",
+          "meaning": "không phải là"
+        }
+      ]
+    },
+    {
+      "id": "L6_015",
+      "num": 15,
+      "code": "015",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 015 – DU HỌC SINH ANH",
+      "zh": "那是英国留学生，他学法文。",
+      "pinyin": "Nà shì Yīngguó liúxuéshēng, tā xué Fǎwén.",
+      "vi": "Kia là du học sinh người Anh, anh ấy học tiếng Pháp.",
+      "chunks": [
+        {
+          "zh": "那是英国留学生，",
+          "pinyin": "Nà shì Yīngguó liúxuéshēng,",
+          "meaning": "kia là lưu học sinh Anh,"
+        },
+        {
+          "zh": "他学法文。",
+          "pinyin": "tā xué Fǎwén.",
+          "meaning": "anh ấy học tiếng Pháp."
+        }
+      ],
+      "notes": [
+        "<strong>Nước Anh:</strong> <strong>英国 (Yīngguó)</strong>, tiếng Anh là <strong>英文 (Yīngwén)</strong> hoặc <strong>英语 (Yīngyǔ)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "英国",
+          "pinyin": "Yīngguó",
+          "meaning": "nước Anh"
+        },
+        {
+          "zh": "法文",
+          "pinyin": "Fǎwén",
+          "meaning": "tiếng Pháp"
+        }
+      ]
+    },
+    {
+      "id": "L6_016",
+      "num": 16,
+      "code": "016",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 016 – HỌC TẬP TẠI ĐẠI HỌC",
+      "zh": "我们在大学学习汉语。",
+      "pinyin": "Wǒmen zài dàxué xuéxí Hànyǔ.",
+      "vi": "Chúng tôi học tiếng Hán ở trường đại học.",
+      "chunks": [
+        {
+          "zh": "我们在大学",
+          "pinyin": "Wǒmen zài dàxué",
+          "meaning": "chúng tôi ở trường đại học"
+        },
+        {
+          "zh": "学习汉语。",
+          "pinyin": "xuéxí Hànyǔ.",
+          "meaning": "học tập tiếng Hán."
+        }
+      ],
+      "notes": [
+        "<strong>Động từ 学习 (xuéxí):</strong> Học tập, có thể nói gọn là <strong>学 (xué)</strong>: <em>学汉语 = 学习汉语</em>."
+      ],
+      "vocab": [
+        {
+          "zh": "学习",
+          "pinyin": "xuéxí",
+          "meaning": "học tập"
+        },
+        {
+          "zh": "大学",
+          "pinyin": "dàxué",
+          "meaning": "đại học"
+        },
+        {
+          "zh": "汉语",
+          "pinyin": "Hànyǔ",
+          "meaning": "tiếng Hán"
+        }
+      ]
+    },
+    {
+      "id": "L6_017",
+      "num": 17,
+      "code": "017",
+      "lesson": 6,
+      "category": "Chính phản",
+      "topic": "BÀI 6 · CÂU 017 – CHỮ HÁN VÀ Ý NGHĨA",
+      "zh": "汉字很难写，但是很有意思。",
+      "pinyin": "Hànzì hěn nán xiě, dànshì hěn yǒu yìsi.",
+      "vi": "Chữ Hán rất khó viết, nhưng rất thú vị.",
+      "chunks": [
+        {
+          "zh": "汉字很难写，",
+          "pinyin": "Hànzì hěn nán xiě,",
+          "meaning": "chữ Hán rất khó viết,"
+        },
+        {
+          "zh": "但是很有意思。",
+          "pinyin": "dànshì hěn yǒu yìsi.",
+          "meaning": "nhưng rất thú vị."
+        }
+      ],
+      "notes": [
+        "<strong>Danh từ 汉字 (Hànzì):</strong> Chữ Hán. Cấu trúc <em>难 + Động từ</em>: khó làm gì (<em>难写: khó viết, 难读: khó đọc</em>)."
+      ],
+      "vocab": [
+        {
+          "zh": "汉字",
+          "pinyin": "Hànzì",
+          "meaning": "chữ Hán"
+        },
+        {
+          "zh": "写",
+          "pinyin": "xiě",
+          "meaning": "viết"
+        },
+        {
+          "zh": "有意思",
+          "pinyin": "yǒu yìsi",
+          "meaning": "thú vị, có ý nghĩa"
+        }
+      ]
+    },
+    {
+      "id": "L6_018",
+      "num": 18,
+      "code": "018",
+      "lesson": 6,
+      "category": "Phủ định",
+      "topic": "BÀI 6 · CÂU 018 – PHÁT ÂM TIẾNG TRUNG",
+      "zh": "汉语发音不太难。",
+      "pinyin": "Hànyǔ fāyīn bú tài nán.",
+      "vi": "Phát âm tiếng Hán không khó lắm.",
+      "chunks": [
+        {
+          "zh": "汉语发音",
+          "pinyin": "Hànyǔ fāyīn",
+          "meaning": "phát âm tiếng Hán"
+        },
+        {
+          "zh": "不太难。",
+          "pinyin": "bú tài nán.",
+          "meaning": "không khó lắm."
+        }
+      ],
+      "notes": [
+        "<strong>Phát âm:</strong> <strong>发音 (fāyīn)</strong> vừa là danh từ (sự phát âm) vừa là động từ (phát ra âm thanh)."
+      ],
+      "vocab": [
+        {
+          "zh": "发音",
+          "pinyin": "fāyīn",
+          "meaning": "phát âm"
+        },
+        {
+          "zh": "不太难",
+          "pinyin": "bú tài nán",
+          "meaning": "không khó lắm"
+        }
+      ]
+    },
+    {
+      "id": "L6_019",
+      "num": 19,
+      "code": "019",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 019 – HỎI ĐỒ VẬT GÌ",
+      "zh": "这是什么书？",
+      "pinyin": "Zhè shì shénme shū?",
+      "vi": "Đây là sách gì?",
+      "chunks": [
+        {
+          "zh": "这是",
+          "pinyin": "Zhè shì",
+          "meaning": "đây là"
+        },
+        {
+          "zh": "什么书？",
+          "pinyin": "shénme shū?",
+          "meaning": "sách gì?"
+        }
+      ],
+      "notes": [
+        "<strong>Đại từ nghi vấn 什么 (shénme):</strong> Đứng trước danh từ để hỏi '...gì': <strong>什么书 (sách gì)</strong>, <strong>什么名字 (tên gì)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "什么",
+          "pinyin": "shénme",
+          "meaning": "cái gì"
+        },
+        {
+          "zh": "书",
+          "pinyin": "shū",
+          "meaning": "sách"
+        }
+      ]
+    },
+    {
+      "id": "L6_020",
+      "num": 20,
+      "code": "020",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 020 – SÁCH TIẾNG TRUNG",
+      "zh": "这本中文书是老师的。",
+      "pinyin": "Zhè běn Zhōngwén shū shì lǎoshī de.",
+      "vi": "Quyển sách tiếng Trung này là của thầy giáo.",
+      "chunks": [
+        {
+          "zh": "这本中文书",
+          "pinyin": "Zhè běn Zhōngwén shū",
+          "meaning": "quyển sách tiếng Trung này"
+        },
+        {
+          "zh": "是老师的。",
+          "pinyin": "shì lǎoshī de.",
+          "meaning": "là của thầy giáo."
+        }
+      ],
+      "notes": [
+        "<strong>Lượng từ 本 (běn):</strong> Dùng cho sách, vở, tạp chí: <strong>一本书 (một quyển sách)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "书",
+          "pinyin": "shū",
+          "meaning": "sách"
+        },
+        {
+          "zh": "本",
+          "pinyin": "běn",
+          "meaning": "quyển, cuốn (lượng từ)"
+        },
+        {
+          "zh": "老师",
+          "pinyin": "lǎoshī",
+          "meaning": "thầy giáo, cô giáo"
+        }
+      ]
+    },
+    {
+      "id": "L6_021",
+      "num": 21,
+      "code": "021",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 021 – HỎI CHỦ SỞ HỮU",
+      "zh": "那本书是谁的？",
+      "pinyin": "Nà běn shū shì shéi de?",
+      "vi": "Quyển sách kia là của ai?",
+      "chunks": [
+        {
+          "zh": "那本书",
+          "pinyin": "Nà běn shū",
+          "meaning": "quyển sách kia"
+        },
+        {
+          "zh": "是谁的？",
+          "pinyin": "shì shéi de?",
+          "meaning": "là của ai?"
+        }
+      ],
+      "notes": [
+        "<strong>Cách phát âm 谁:</strong> Có hai cách đọc chuẩn: <strong>shéi</strong> (khẩu ngữ phổ biến ở miền Bắc Trung Quốc) hoặc <strong>shuí</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "谁",
+          "pinyin": "shéi / shuí",
+          "meaning": "ai"
+        },
+        {
+          "zh": "谁的",
+          "pinyin": "shéi de",
+          "meaning": "của ai"
+        }
+      ]
+    },
+    {
+      "id": "L6_022",
+      "num": 22,
+      "code": "022",
+      "lesson": 6,
+      "category": "Phủ định",
+      "topic": "BÀI 6 · CÂU 022 – TRỢ TỪ SỞ HỮU",
+      "zh": "这是我朋友的书，不是我的。",
+      "pinyin": "Zhè shì wǒ péngyou de shū, bú shì wǒ de.",
+      "vi": "Đây là sách của bạn tôi, không phải của tôi.",
+      "chunks": [
+        {
+          "zh": "这是我朋友的书，",
+          "pinyin": "Zhè shì wǒ péngyou de shū,",
+          "meaning": "đây là sách của bạn tôi,"
+        },
+        {
+          "zh": "不是我的。",
+          "pinyin": "bú shì wǒ de.",
+          "meaning": "không phải của tôi."
+        }
+      ],
+      "notes": [
+        "<strong>Cấu trúc chữ 的:</strong> <em>Định ngữ + 的 + Trung tâm ngữ</em> biểu thị quan hệ sở hữu. <strong>我的 (của tôi)</strong> có thể lược bỏ danh từ phía sau khi ngữ cảnh rõ ràng."
+      ],
+      "vocab": [
+        {
+          "zh": "的",
+          "pinyin": "de",
+          "meaning": "của"
+        },
+        {
+          "zh": "不是",
+          "pinyin": "bú shì",
+          "meaning": "không phải"
+        }
+      ]
+    },
+    {
+      "id": "L6_023",
+      "num": 23,
+      "code": "023",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 023 – CHỈ ĐỊNH ĐỒ Ở XA",
+      "zh": "那是什么杂志？",
+      "pinyin": "Nà shì shénme zázhì?",
+      "vi": "Kia là tạp chí gì?",
+      "chunks": [
+        {
+          "zh": "那是",
+          "pinyin": "Nà shì",
+          "meaning": "kia là"
+        },
+        {
+          "zh": "什么杂志？",
+          "pinyin": "shénme zázhì?",
+          "meaning": "tạp chí gì?"
+        }
+      ],
+      "notes": [
+        "<strong>Phân biệt 这 (gần) và 那 (xa):</strong> <strong>这 (zhè)</strong>: đây/này (khoảng cách gần); <strong>那 (nà)</strong>: kia/đó (khoảng cách xa)."
+      ],
+      "vocab": [
+        {
+          "zh": "那",
+          "pinyin": "nà",
+          "meaning": "kia"
+        },
+        {
+          "zh": "杂志",
+          "pinyin": "zázhì",
+          "meaning": "tạp chí"
+        }
+      ]
+    },
+    {
+      "id": "L6_024",
+      "num": 24,
+      "code": "024",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 024 – TẠP CHÍ TIẾNG ANH",
+      "zh": "那是一本英文杂志。",
+      "pinyin": "Nà shì yì běn Yīngwén zázhì.",
+      "vi": "Kia là một cuốn tạp chí tiếng Anh.",
+      "chunks": [
+        {
+          "zh": "那是",
+          "pinyin": "Nà shì",
+          "meaning": "kia là"
+        },
+        {
+          "zh": "一本英文杂志。",
+          "pinyin": "yì běn Yīngwén zázhì.",
+          "meaning": "một cuốn tạp chí tiếng Anh."
+        }
+      ],
+      "notes": [
+        "<strong>Lượng từ cho tạp chí:</strong> Dùng <strong>本 (běn)</strong>: <em>一本杂志 (một cuốn tạp chí)</em>."
+      ],
+      "vocab": [
+        {
+          "zh": "杂志",
+          "pinyin": "zázhì",
+          "meaning": "tạp chí"
+        },
+        {
+          "zh": "英文",
+          "pinyin": "Yīngwén",
+          "meaning": "tiếng Anh"
+        }
+      ]
+    },
+    {
+      "id": "L6_025",
+      "num": 25,
+      "code": "025",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 025 – ĐỌC SÁCH TIẾNG TRUNG",
+      "zh": "我喜欢看中文书。",
+      "pinyin": "Wǒ xǐhuan kàn Zhōngwén shū.",
+      "vi": "Tôi thích đọc sách chữ Hán (tiếng Trung).",
+      "chunks": [
+        {
+          "zh": "我喜欢",
+          "pinyin": "Wǒ xǐhuan",
+          "meaning": "tôi thích"
+        },
+        {
+          "zh": "看中文书。",
+          "pinyin": "kàn Zhōngwén shū.",
+          "meaning": "đọc sách tiếng Trung."
+        }
+      ],
+      "notes": [
+        "<strong>Chữ 文 (wén):</strong> Biểu thị ngôn ngữ dưới dạng văn tự chữ viết: <strong>中文 (văn tự Trung Hoa/tiếng Trung)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "中文",
+          "pinyin": "Zhōngwén",
+          "meaning": "tiếng Trung/ tiếng Hoa"
+        },
+        {
+          "zh": "喜欢",
+          "pinyin": "xǐhuan",
+          "meaning": "thích"
+        },
+        {
+          "zh": "看",
+          "pinyin": "kàn",
+          "meaning": "xem, đọc"
+        }
+      ]
+    },
+    {
+      "id": "L6_026",
+      "num": 26,
+      "code": "026",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 026 – TIẾNG Ả RẬP KHÓ HỌC",
+      "zh": "阿拉伯文很难学吗？",
+      "pinyin": "Ālābó wén hěn nán xué ma?",
+      "vi": "Tiếng Ả Rập có khó học không?",
+      "chunks": [
+        {
+          "zh": "阿拉伯文",
+          "pinyin": "Ālābó wén",
+          "meaning": "tiếng Ả Rập"
+        },
+        {
+          "zh": "很难学吗？",
+          "pinyin": "hěn nán xué ma?",
+          "meaning": "rất khó học phải không?"
+        }
+      ],
+      "notes": [
+        "<strong>Tiếng Ả Rập:</strong> <strong>阿拉伯文 (Ālābówén)</strong>, viết từ phải sang trái."
+      ],
+      "vocab": [
+        {
+          "zh": "阿拉伯文",
+          "pinyin": "Ālābó wén",
+          "meaning": "Tiếng Ả Rập"
+        },
+        {
+          "zh": "难学",
+          "pinyin": "nán xué",
+          "meaning": "khó học"
+        }
+      ]
+    },
+    {
+      "id": "L6_027",
+      "num": 27,
+      "code": "027",
+      "lesson": 6,
+      "category": "Phủ định",
+      "topic": "BÀI 6 · CÂU 027 – LỰA CHỌN MÔN NGOẠI NGỮ",
+      "zh": "他不学德文，他学法文。",
+      "pinyin": "Tā bù xué Déwén, tā xué Fǎwén.",
+      "vi": "Anh ấy không học tiếng Đức, anh ấy học tiếng Pháp.",
+      "chunks": [
+        {
+          "zh": "他不学德文，",
+          "pinyin": "Tā bù xué Déwén,",
+          "meaning": "anh ấy không học tiếng Đức,"
+        },
+        {
+          "zh": "他学法文。",
+          "pinyin": "tā xué Fǎwén.",
+          "meaning": "anh ấy học tiếng Pháp."
+        }
+      ],
+      "notes": [
+        "<strong>Cặp tương phản:</strong> <em>不学 A，学 B (không học A, học B)</em>."
+      ],
+      "vocab": [
+        {
+          "zh": "德文",
+          "pinyin": "Dé wén",
+          "meaning": "Tiếng Đức"
+        },
+        {
+          "zh": "法文",
+          "pinyin": "Fǎwén",
+          "meaning": "tiếng Pháp"
+        }
+      ]
+    },
+    {
+      "id": "L6_028",
+      "num": 28,
+      "code": "028",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 028 – AI ĐANG HỌC TIẾNG NGA",
+      "zh": "谁在学校学习俄文？",
+      "pinyin": "Shéi zài xuéxiào xuéxí Éwén?",
+      "vi": "Ai đang học tiếng Nga ở trường?",
+      "chunks": [
+        {
+          "zh": "谁在学校",
+          "pinyin": "Shéi zài xuéxiào",
+          "meaning": "ai ở trường"
+        },
+        {
+          "zh": "学习俄文？",
+          "pinyin": "xuéxí Éwén?",
+          "meaning": "học tập tiếng Nga?"
+        }
+      ],
+      "notes": [
+        "<strong>Hỏi với 谁 (shéi):</strong> Làm chủ ngữ trong câu hỏi xác định đối tượng."
+      ],
+      "vocab": [
+        {
+          "zh": "俄文",
+          "pinyin": "Éwén",
+          "meaning": "Tiếng Nga"
+        },
+        {
+          "zh": "学校",
+          "pinyin": "xuéxiào",
+          "meaning": "trường học"
+        }
+      ]
+    },
+    {
+      "id": "L6_029",
+      "num": 29,
+      "code": "029",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 029 – TẠP CHÍ TIẾNG PHÁP ĐẸP",
+      "zh": "这本法文杂志很漂亮。",
+      "pinyin": "Zhè běn Fǎwén zázhì hěn piàoliang.",
+      "vi": "Cuốn tạp chí tiếng Pháp này rất đẹp.",
+      "chunks": [
+        {
+          "zh": "这本法文杂志",
+          "pinyin": "Zhè běn Fǎwén zázhì",
+          "meaning": "cuốn tạp chí tiếng Pháp này"
+        },
+        {
+          "zh": "很漂亮。",
+          "pinyin": "hěn piàoliang.",
+          "meaning": "rất đẹp."
+        }
+      ],
+      "notes": [
+        "<strong>Tính từ 漂亮 (piàoliang):</strong> Đẹp đẽ, xinh đẹp (chữ 亮 đọc thanh nhẹ)."
+      ],
+      "vocab": [
+        {
+          "zh": "法文",
+          "pinyin": "Fǎwén",
+          "meaning": "Tiếng Pháp"
+        },
+        {
+          "zh": "漂亮",
+          "pinyin": "piàoliang",
+          "meaning": "đẹp"
+        }
+      ]
+    },
+    {
+      "id": "L6_030",
+      "num": 30,
+      "code": "030",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 030 – XEM PHIM TIẾNG HÀN",
+      "zh": "我朋友看韩文电影。",
+      "pinyin": "Wǒ péngyou kàn Hánwén diànyǐng.",
+      "vi": "Bạn tôi xem phim điện ảnh tiếng Hàn.",
+      "chunks": [
+        {
+          "zh": "我朋友",
+          "pinyin": "Wǒ péngyou",
+          "meaning": "bạn của tôi"
+        },
+        {
+          "zh": "看韩文电影。",
+          "pinyin": "kàn Hánwén diànyǐng.",
+          "meaning": "xem phim tiếng Hàn."
+        }
+      ],
+      "notes": [
+        "<strong>Từ ghép:</strong> <strong>韩文 (tiếng Hàn) + 电影 (phim) = 韩文电影 (phim tiếng Hàn)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "韩文",
+          "pinyin": "Hánwén",
+          "meaning": "Tiếng Hàn"
+        },
+        {
+          "zh": "电影",
+          "pinyin": "diànyǐng",
+          "meaning": "phim, điện ảnh"
+        }
+      ]
+    },
+    {
+      "id": "L6_031",
+      "num": 31,
+      "code": "031",
+      "lesson": 6,
+      "category": "Chính phản",
+      "topic": "BÀI 6 · CÂU 031 – SO SÁNH CHỮ HÁN NHẬT - TRUNG",
+      "zh": "日文汉字和中文汉字一样吗？",
+      "pinyin": "Rìwén hànzì hé Zhōngwén hànzì yíyàng ma?",
+      "vi": "Chữ Hán trong tiếng Nhật và chữ Hán tiếng Trung có giống nhau không?",
+      "chunks": [
+        {
+          "zh": "日文汉字",
+          "pinyin": "Rìwén hànzì",
+          "meaning": "chữ Hán tiếng Nhật"
+        },
+        {
+          "zh": "和中文汉字",
+          "pinyin": "hé Zhōngwén hànzì",
+          "meaning": "và chữ Hán tiếng Trung"
+        },
+        {
+          "zh": "一样吗？",
+          "pinyin": "yíyàng ma?",
+          "meaning": "giống nhau không?"
+        }
+      ],
+      "notes": [
+        "<strong>Cấu trúc so sánh:</strong> <strong>A 和 B 一样 (A và B giống nhau)</strong>; hỏi nghi vấn thêm <strong>吗</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "日文",
+          "pinyin": "Rìwén",
+          "meaning": "Tiếng Nhật"
+        },
+        {
+          "zh": "和",
+          "pinyin": "hé",
+          "meaning": "và, cùng"
+        },
+        {
+          "zh": "一样",
+          "pinyin": "yíyàng",
+          "meaning": "giống nhau"
+        }
+      ]
+    },
+    {
+      "id": "L6_032",
+      "num": 32,
+      "code": "032",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 032 – BIẾT NÓI HAI NGOẠI NGỮ",
+      "zh": "他会说西班牙文和英文。",
+      "pinyin": "Tā huì shuō Xībānyáwén hé Yīngwén.",
+      "vi": "Anh ấy biết nói tiếng Tây Ban Nha và tiếng Anh.",
+      "chunks": [
+        {
+          "zh": "他会说",
+          "pinyin": "Tā huì shuō",
+          "meaning": "anh ấy biết nói"
+        },
+        {
+          "zh": "西班牙文和英文。",
+          "pinyin": "Xībānyáwén hé Yīngwén.",
+          "meaning": "tiếng Tây Ban Nha và tiếng Anh."
+        }
+      ],
+      "notes": [
+        "<strong>Động từ năng nguyện 会 (huì):</strong> Diễn tả kỹ năng đạt được qua học tập (<em>会说: biết nói</em>)."
+      ],
+      "vocab": [
+        {
+          "zh": "西班牙文",
+          "pinyin": "Xībānyáwén",
+          "meaning": "Tiếng Tây Ban Nha"
+        },
+        {
+          "zh": "会",
+          "pinyin": "huì",
+          "meaning": "biết (kỹ năng)"
+        },
+        {
+          "zh": "说",
+          "pinyin": "shuō",
+          "meaning": "nói"
+        }
+      ]
+    },
+    {
+      "id": "L6_033",
+      "num": 33,
+      "code": "033",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 033 – TỪ ĐIỂN TIẾNG ANH",
+      "zh": "这是一本英文词典吗？",
+      "pinyin": "Zhè shì yì běn Yīngwén cídiǎn ma?",
+      "vi": "Đây là một cuốn từ điển tiếng Anh phải không?",
+      "chunks": [
+        {
+          "zh": "这是",
+          "pinyin": "Zhè shì",
+          "meaning": "đây là"
+        },
+        {
+          "zh": "一本英文词典吗？",
+          "pinyin": "yì běn Yīngwén cídiǎn ma?",
+          "meaning": "một cuốn từ điển tiếng Anh phải không?"
+        }
+      ],
+      "notes": [
+        "<strong>Từ điển:</strong> <strong>词典 (cídiǎn)</strong> là cuốn từ điển tra cứu từ vựng."
+      ],
+      "vocab": [
+        {
+          "zh": "英文",
+          "pinyin": "Yīngwén",
+          "meaning": "Tiếng Anh"
+        },
+        {
+          "zh": "词典",
+          "pinyin": "cídiǎn",
+          "meaning": "từ điển"
+        }
+      ]
+    },
+    {
+      "id": "L6_034",
+      "num": 34,
+      "code": "034",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 034 – BẠN TỐT CỦA NHAU",
+      "zh": "张东是我的好朋友。",
+      "pinyin": "Zhāng Dōng shì wǒ de hǎo péngyou.",
+      "vi": "Trương Đông là người bạn tốt của tôi.",
+      "chunks": [
+        {
+          "zh": "张东是",
+          "pinyin": "Zhāng Dōng shì",
+          "meaning": "Trương Đông là"
+        },
+        {
+          "zh": "我的好朋友。",
+          "pinyin": "wǒ de hǎo péngyou.",
+          "meaning": "người bạn tốt của tôi."
+        }
+      ],
+      "notes": [
+        "<strong>Bạn tốt:</strong> <strong>好朋友 (hǎo péngyou)</strong>, chữ 友 đọc thanh nhẹ khi ghép từ."
+      ],
+      "vocab": [
+        {
+          "zh": "朋友",
+          "pinyin": "péngyou",
+          "meaning": "Bạn bè"
+        },
+        {
+          "zh": "好",
+          "pinyin": "hǎo",
+          "meaning": "tốt, đẹp"
+        }
+      ]
+    },
+    {
+      "id": "L6_035",
+      "num": 35,
+      "code": "035",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 035 – GIỚI THIỆU BẠN MIKE",
+      "zh": "麦克是我的同班同学。",
+      "pinyin": "Màikè shì wǒ de tóngbān tóngxué.",
+      "vi": "Mike là bạn học cùng lớp của tôi.",
+      "chunks": [
+        {
+          "zh": "麦克是",
+          "pinyin": "Màikè shì",
+          "meaning": "Mike là"
+        },
+        {
+          "zh": "我的同班同学。",
+          "pinyin": "wǒ de tóngbān tóngxué.",
+          "meaning": "bạn học cùng lớp của tôi."
+        }
+      ],
+      "notes": [
+        "<strong>Tên phiên âm tiếng Tây:</strong> <strong>麦克 (Màikè)</strong> phiên âm từ tên tiếng Anh Mike."
+      ],
+      "vocab": [
+        {
+          "zh": "麦克",
+          "pinyin": "Mài kè",
+          "meaning": "Mike"
+        },
+        {
+          "zh": "同学",
+          "pinyin": "tóngxué",
+          "meaning": "bạn học"
+        }
+      ]
+    },
+    {
+      "id": "L6_036",
+      "num": 36,
+      "code": "036",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 036 – TRƯƠNG ĐÔNG HỌC TIẾNG ANH",
+      "zh": "张东是中国人，他学英文。",
+      "pinyin": "Zhāng Dōng shì Zhōngguó rén, tā xué Yīngwén.",
+      "vi": "Trương Đông là người Trung Quốc, anh ấy học tiếng Anh.",
+      "chunks": [
+        {
+          "zh": "张东是中国人，",
+          "pinyin": "Zhāng Dōng shì Zhōngguó rén,",
+          "meaning": "Trương Đông là người Trung Quốc,"
+        },
+        {
+          "zh": "他学英文。",
+          "pinyin": "tā xué Yīngwén.",
+          "meaning": "anh ấy học tiếng Anh."
+        }
+      ],
+      "notes": [
+        "<strong>Tên người Trung:</strong> Họ Trương (张) + Tên Đông (东)."
+      ],
+      "vocab": [
+        {
+          "zh": "张东",
+          "pinyin": "Zhāng Dōng",
+          "meaning": "Trương Đông"
+        },
+        {
+          "zh": "中国人",
+          "pinyin": "Zhōngguó rén",
+          "meaning": "người Trung Quốc"
+        }
+      ]
+    },
+    {
+      "id": "L6_037",
+      "num": 37,
+      "code": "037",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 037 – LỜI CHÀO BUỔI SÁNG & ĐI ĐÂU",
+      "zh": "早上好！上午你去哪儿？",
+      "pinyin": "Zǎoshang hǎo! Shàngwǔ nǐ qù nǎr?",
+      "vi": "Chào buổi sáng! Buổi sáng bạn đi đâu đấy?",
+      "chunks": [
+        {
+          "zh": "早上好！",
+          "pinyin": "Zǎoshang hǎo!",
+          "meaning": "chào buổi sáng!"
+        },
+        {
+          "zh": "上午你去哪儿？",
+          "pinyin": "Shàngwǔ nǐ qù nǎr?",
+          "meaning": "buổi sáng bạn đi đâu?"
+        }
+      ],
+      "notes": [
+        "<strong>Phân biệt 早上 và 上午:</strong> <strong>早上 (zǎoshang)</strong>: sáng sớm (khoảng 6h - 8h); <strong>上午 (shàngwǔ)</strong>: cả buổi sáng (từ 8h - 11h30)."
+      ],
+      "vocab": [
+        {
+          "zh": "早上 / 上午",
+          "pinyin": "zǎoshang / shàngwǔ",
+          "meaning": "Buổi sáng"
+        },
+        {
+          "zh": "早上",
+          "pinyin": "zǎoshang",
+          "meaning": "sáng sớm"
+        },
+        {
+          "zh": "上午",
+          "pinyin": "shàngwǔ",
+          "meaning": "buổi sáng"
+        },
+        {
+          "zh": "去哪儿",
+          "pinyin": "qù nǎr",
+          "meaning": "đi đâu"
+        }
+      ]
+    },
+    {
+      "id": "L6_038",
+      "num": 38,
+      "code": "038",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 038 – BỮA TRƯA CÙNG NHAU",
+      "zh": "中午我们一起吃午饭。",
+      "pinyin": "Zhōngwǔ wǒmen yìqǐ chī wǔfàn.",
+      "vi": "Buổi trưa chúng tôi cùng nhau ăn cơm trưa.",
+      "chunks": [
+        {
+          "zh": "中午",
+          "pinyin": "Zhōngwǔ",
+          "meaning": "buổi trưa"
+        },
+        {
+          "zh": "我们一起吃午饭。",
+          "pinyin": "wǒmen yìqǐ chī wǔfàn.",
+          "meaning": "chúng tôi cùng nhau ăn bữa trưa."
+        }
+      ],
+      "notes": [
+        "<strong>Từ chỉ thời gian:</strong> <strong>中午 (zhōngwǔ)</strong> là khoảng 11h30 đến 13h trưa. Thường đứng trước chủ ngữ hoặc trước vị ngữ."
+      ],
+      "vocab": [
+        {
+          "zh": "中午",
+          "pinyin": "zhōngwǔ",
+          "meaning": "Buổi trưa"
+        },
+        {
+          "zh": "一起",
+          "pinyin": "yìqǐ",
+          "meaning": "cùng nhau"
+        },
+        {
+          "zh": "午饭",
+          "pinyin": "wǔfàn",
+          "meaning": "cơm trưa"
+        }
+      ]
+    },
+    {
+      "id": "L6_039",
+      "num": 39,
+      "code": "039",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 039 – BUỔI CHIỀU ĐẾN THƯ VIỆN",
+      "zh": "下午两点我去图书馆。",
+      "pinyin": "Xiàwǔ liǎng diǎn wǒ qù túshūguǎn.",
+      "vi": "Hai giờ chiều tôi đi đến thư viện.",
+      "chunks": [
+        {
+          "zh": "下午两点",
+          "pinyin": "Xiàwǔ liǎng diǎn",
+          "meaning": "hai giờ chiều"
+        },
+        {
+          "zh": "我去图书馆。",
+          "pinyin": "wǒ qù túshūguǎn.",
+          "meaning": "tôi đi thư viện."
+        }
+      ],
+      "notes": [
+        "<strong>Buổi chiều:</strong> <strong>下午 (xiàwǔ)</strong>: từ sau 13h đến khoảng 18h. Nói giờ kèm buổi: đặt buổi trước giờ (<em>下午两点: 2 giờ chiều</em>)."
+      ],
+      "vocab": [
+        {
+          "zh": "下午",
+          "pinyin": "xiàwǔ",
+          "meaning": "Buổi chiều"
+        },
+        {
+          "zh": "两点",
+          "pinyin": "liǎng diǎn",
+          "meaning": "hai giờ"
+        },
+        {
+          "zh": "图书馆",
+          "pinyin": "túshūguǎn",
+          "meaning": "thư viện"
+        }
+      ]
+    },
+    {
+      "id": "L6_040",
+      "num": 40,
+      "code": "040",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 040 – HOẠT ĐỘNG BUỔI TỐI",
+      "zh": "晚上你在家做什么？",
+      "pinyin": "Wǎnshang nǐ zài jiā zuò shénme?",
+      "vi": "Buổi tối bạn làm gì ở nhà?",
+      "chunks": [
+        {
+          "zh": "晚上",
+          "pinyin": "Wǎnshang",
+          "meaning": "buổi tối"
+        },
+        {
+          "zh": "你在家做什么？",
+          "pinyin": "nǐ zài jiā zuò shénme?",
+          "meaning": "bạn làm gì ở nhà?"
+        }
+      ],
+      "notes": [
+        "<strong>Buổi tối:</strong> <strong>晚上 (wǎnshang)</strong>: từ khoảng 18h đến đêm. Chữ 上 đọc thanh nhẹ."
+      ],
+      "vocab": [
+        {
+          "zh": "晚上",
+          "pinyin": "wǎnshang",
+          "meaning": "Buổi tối"
+        },
+        {
+          "zh": "在家",
+          "pinyin": "zài jiā",
+          "meaning": "ở nhà"
+        },
+        {
+          "zh": "做",
+          "pinyin": "zuò",
+          "meaning": "làm"
+        }
+      ]
+    },
+    {
+      "id": "L6_041",
+      "num": 41,
+      "code": "041",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 041 – HỎI THỜI GIAN HIỆN TẠI",
+      "zh": "现在几点？现在八点半。",
+      "pinyin": "Xiànzài jǐ diǎn? Xiànzài bā diǎn bàn.",
+      "vi": "Bây giờ là mấy giờ? Bây giờ là 8 giờ rưỡi.",
+      "chunks": [
+        {
+          "zh": "现在几点？",
+          "pinyin": "Xiànzài jǐ diǎn?",
+          "meaning": "bây giờ mấy giờ?"
+        },
+        {
+          "zh": "现在八点半。",
+          "pinyin": "Xiànzài bā diǎn bàn.",
+          "meaning": "bây giờ 8 giờ rưỡi."
+        }
+      ],
+      "notes": [
+        "<strong>Cấu trúc hỏi giờ:</strong> <strong>现在几点？</strong> (Bây giờ mấy giờ?). Trả lời: <em>Số + 点 (giờ) + 半 (rưỡi)</em>."
+      ],
+      "vocab": [
+        {
+          "zh": "几点",
+          "pinyin": "jǐ diǎn",
+          "meaning": "mấy giờ"
+        },
+        {
+          "zh": "现在",
+          "pinyin": "xiànzài",
+          "meaning": "bây giờ, hiện tại"
+        },
+        {
+          "zh": "八点半",
+          "pinyin": "bā diǎn bàn",
+          "meaning": "8 giờ rưỡi"
+        }
+      ]
+    },
+    {
+      "id": "L6_042",
+      "num": 42,
+      "code": "042",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 042 – HỎI GIỜ DÙNG BỮA",
+      "zh": "你们中午几点吃饭？",
+      "pinyin": "Nǐmen zhōngwǔ jǐ diǎn chīfàn?",
+      "vi": "Các bạn ăn cơm lúc mấy giờ trưa?",
+      "chunks": [
+        {
+          "zh": "你们中午",
+          "pinyin": "Nǐmen zhōngwǔ",
+          "meaning": "các bạn buổi trưa"
+        },
+        {
+          "zh": "几点吃饭？",
+          "pinyin": "jǐ diǎn chīfàn?",
+          "meaning": "mấy giờ ăn cơm?"
+        }
+      ],
+      "notes": [
+        "<strong>Cụm động tân 吃饭:</strong> <strong>吃 (ăn) + 饭 (cơm/bữa ăn)</strong> = ăn cơm, dùng bữa."
+      ],
+      "vocab": [
+        {
+          "zh": "吃饭",
+          "pinyin": "chīfàn",
+          "meaning": "ăn cơm"
+        },
+        {
+          "zh": "几点",
+          "pinyin": "jǐ diǎn",
+          "meaning": "mấy giờ"
+        },
+        {
+          "zh": "中午",
+          "pinyin": "zhōngwǔ",
+          "meaning": "buổi trưa"
+        }
+      ]
+    },
+    {
+      "id": "L6_043",
+      "num": 43,
+      "code": "043",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 043 – HỎI ĐÁP TRÊN LỚP",
+      "zh": "老师问，学生答，课堂很有趣。",
+      "pinyin": "Lǎoshī wèn, xuésheng dá, kètáng hěn yǒuqù.",
+      "vi": "Thầy hỏi, trò trả lời, lớp học rất thú vị.",
+      "chunks": [
+        {
+          "zh": "老师问，学生答，",
+          "pinyin": "Lǎoshī wèn, xuésheng dá,",
+          "meaning": "thầy hỏi, học trò đáp,"
+        },
+        {
+          "zh": "课堂很有趣。",
+          "pinyin": "kètáng hěn yǒuqù.",
+          "meaning": "lớp học rất thú vị."
+        }
+      ],
+      "notes": [
+        "<strong>Cặp từ đối ứng:</strong> <strong>问 (hỏi)</strong> đi kèm với <strong>答 (trả lời)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "问",
+          "pinyin": "wèn",
+          "meaning": "hỏi"
+        },
+        {
+          "zh": "答",
+          "pinyin": "dá",
+          "meaning": "đáp, trả lời"
+        },
+        {
+          "zh": "课堂",
+          "pinyin": "kètáng",
+          "meaning": "lớp học"
+        }
+      ]
+    },
+    {
+      "id": "L6_044",
+      "num": 44,
+      "code": "044",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 044 – XEM PHIM TÌNH CẢM LÃNG MẠN",
+      "zh": "晚上我想看一部爱情片。",
+      "pinyin": "Wǎnshang wǒ xiǎng kàn yí bù àiqíng piān.",
+      "vi": "Buổi tối tôi muốn xem một bộ phim tình cảm.",
+      "chunks": [
+        {
+          "zh": "晚上我想看",
+          "pinyin": "Wǎnshang wǒ xiǎng kàn",
+          "meaning": "buổi tối tôi muốn xem"
+        },
+        {
+          "zh": "一部爱情片。",
+          "pinyin": "yí bù àiqíng piān.",
+          "meaning": "một bộ phim tình cảm."
+        }
+      ],
+      "notes": [
+        "<strong>Lượng từ 部 (bù):</strong> Dùng cho tác phẩm phim ảnh: <strong>一部电影 / 一部爱情片</strong>.",
+        "<strong>爱情片:</strong> Phim tình cảm tâm lý lãng mạn."
+      ],
+      "vocab": [
+        {
+          "zh": "爱情片",
+          "pinyin": "àiqíng piān",
+          "meaning": "phim tình cảm"
+        },
+        {
+          "zh": "看",
+          "pinyin": "kàn",
+          "meaning": "xem"
+        },
+        {
+          "zh": "想",
+          "pinyin": "xiǎng",
+          "meaning": "muốn"
+        }
+      ]
+    },
+    {
+      "id": "L6_045",
+      "num": 45,
+      "code": "045",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 045 – HỎI THỜI GIAN RẢNH RỖI",
+      "zh": "你明天下午有时间吗？",
+      "pinyin": "Nǐ míngtiān xiàwǔ yǒu shíjiān ma?",
+      "vi": "Chiều mai bạn có thời gian (rảnh) không?",
+      "chunks": [
+        {
+          "zh": "你明天下午",
+          "pinyin": "Nǐ míngtiān xiàwǔ",
+          "meaning": "bạn chiều ngày mai"
+        },
+        {
+          "zh": "有时间吗？",
+          "pinyin": "yǒu shíjiān ma?",
+          "meaning": "có thời gian rảnh không?"
+        }
+      ],
+      "notes": [
+        "<strong>Khẩu ngữ 有时间:</strong> Có thời gian, đồng nghĩa với có lúc rảnh rỗi (有空儿). Phủ định là <strong>没有时间 (không có thời gian)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "时间",
+          "pinyin": "shíjiān",
+          "meaning": "thời gian"
+        },
+        {
+          "zh": "明天",
+          "pinyin": "míngtiān",
+          "meaning": "ngày mai"
+        },
+        {
+          "zh": "有",
+          "pinyin": "yǒu",
+          "meaning": "có"
+        }
+      ]
+    },
+    {
+      "id": "L6_046",
+      "num": 46,
+      "code": "046",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 046 – PHIM ĐIỆN ẢNH NỔI TIẾNG",
+      "zh": "这部中国电影很有名。",
+      "pinyin": "Zhè bù Zhōngguó diànyǐng hěn yǒumíng.",
+      "vi": "Bộ phim Trung Quốc này rất nổi tiếng.",
+      "chunks": [
+        {
+          "zh": "这部中国电影",
+          "pinyin": "Zhè bù Zhōngguó diànyǐng",
+          "meaning": "bộ phim Trung Quốc này"
+        },
+        {
+          "zh": "很有名。",
+          "pinyin": "hěn yǒumíng.",
+          "meaning": "rất nổi tiếng."
+        }
+      ],
+      "notes": [
+        "<strong>Chiết tự 电影:</strong> <strong>电 (điện) + 影 (hình bóng, bóng chiếu)</strong> = phim nhựa, điện ảnh."
+      ],
+      "vocab": [
+        {
+          "zh": "电影",
+          "pinyin": "diànyǐng",
+          "meaning": "phim"
+        },
+        {
+          "zh": "有名",
+          "pinyin": "yǒumíng",
+          "meaning": "nổi tiếng"
+        }
+      ]
+    },
+    {
+      "id": "L6_047",
+      "num": 47,
+      "code": "047",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 047 – THỦ ĐÔ HÀ NỘI YÊU DẤU",
+      "zh": "河内是越南的首都。",
+      "pinyin": "Hénèi shì Yuènán de shǒudū.",
+      "vi": "Hà Nội là thủ đô của Việt Nam.",
+      "chunks": [
+        {
+          "zh": "河内是",
+          "pinyin": "Hénèi shì",
+          "meaning": "Hà Nội là"
+        },
+        {
+          "zh": "越南的首都。",
+          "pinyin": "Yuènán de shǒudū.",
+          "meaning": "thủ đô của Việt Nam."
+        }
+      ],
+      "notes": [
+        "<strong>Tên riêng Hà Nội:</strong> <strong>河内 (Hénèi)</strong> nghĩa là 'phía trong các dòng sông'."
+      ],
+      "vocab": [
+        {
+          "zh": "河内",
+          "pinyin": "Hénèi",
+          "meaning": "Hà Nội"
+        },
+        {
+          "zh": "越南",
+          "pinyin": "Yuènán",
+          "meaning": "Việt Nam"
+        },
+        {
+          "zh": "首都",
+          "pinyin": "shǒudū",
+          "meaning": "thủ đô"
+        }
+      ]
+    },
+    {
+      "id": "L6_048",
+      "num": 48,
+      "code": "048",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 048 – THỦ ĐÔ BẮC KINH",
+      "zh": "北京是中国的首都，很美丽。",
+      "pinyin": "Běijīng shì Zhōngguó de shǒudū, hěn měilì.",
+      "vi": "Bắc Kinh là thủ đô của Trung Quốc, rất tươi đẹp.",
+      "chunks": [
+        {
+          "zh": "北京是中国的首都，",
+          "pinyin": "Běijīng shì Zhōngguó de shǒudū,",
+          "meaning": "Bắc Kinh là thủ đô của Trung Quốc,"
+        },
+        {
+          "zh": "很美丽。",
+          "pinyin": "hěn měilì.",
+          "meaning": "rất xinh đẹp."
+        }
+      ],
+      "notes": [
+        "<strong>Danh từ 首都 (shǒudū):</strong> Thủ đô, trung tâm chính trị của một đất nước."
+      ],
+      "vocab": [
+        {
+          "zh": "首都",
+          "pinyin": "shǒudū",
+          "meaning": "thủ đô"
+        },
+        {
+          "zh": "北京",
+          "pinyin": "Běijīng",
+          "meaning": "Bắc Kinh"
+        },
+        {
+          "zh": "美丽",
+          "pinyin": "měilì",
+          "meaning": "xinh đẹp"
+        }
+      ]
+    },
+    {
+      "id": "L6_049",
+      "num": 49,
+      "code": "049",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 049 – HỎI THỜI GIAN HỌC TIẾNG TRUNG",
+      "zh": "你学汉语多久了？我学三个月了。",
+      "pinyin": "Nǐ xué Hànyǔ duōjiǔ le? Wǒ xué sān ge yuè le.",
+      "vi": "Bạn học tiếng Hán bao lâu rồi? Tôi học được 3 tháng rồi.",
+      "chunks": [
+        {
+          "zh": "你学汉语多久了？",
+          "pinyin": "Nǐ xué Hànyǔ duōjiǔ le?",
+          "meaning": "bạn học tiếng Hán bao lâu rồi?"
+        },
+        {
+          "zh": "我学三个月了。",
+          "pinyin": "Wǒ xué sān ge yuè le.",
+          "meaning": "tôi học ba tháng rồi."
+        }
+      ],
+      "notes": [
+        "<strong>Cụm từ hỏi thời lượng 多久 (duōjiǔ):</strong> Tương đương <strong>多长时间 (duō cháng shíjiān)</strong>, nghĩa là 'bao lâu'."
+      ],
+      "vocab": [
+        {
+          "zh": "多久",
+          "pinyin": "duōjiǔ",
+          "meaning": "bao lâu"
+        },
+        {
+          "zh": "三个月",
+          "pinyin": "sān ge yuè",
+          "meaning": "3 tháng"
+        }
+      ]
+    },
+    {
+      "id": "L6_050",
+      "num": 50,
+      "code": "050",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 050 – TIẾNG HÁN TRÊN THẾ GIỚI",
+      "zh": "汉语是世界上很有用的语言。",
+      "pinyin": "Hànyǔ shì shìjiè shang hěn yǒuyòng de yǔyán.",
+      "vi": "Tiếng Hán là một ngôn ngữ rất hữu ích trên thế giới.",
+      "chunks": [
+        {
+          "zh": "汉语是世界上",
+          "pinyin": "Hànyǔ shì shìjiè shang",
+          "meaning": "tiếng Hán là trên thế giới"
+        },
+        {
+          "zh": "很有用的语言。",
+          "pinyin": "hěn yǒuyòng de yǔyán.",
+          "meaning": "ngôn ngữ rất hữu ích."
+        }
+      ],
+      "notes": [
+        "<strong>Danh từ 语言 (yǔyán):</strong> Ngôn ngữ nói chung."
+      ],
+      "vocab": [
+        {
+          "zh": "语言",
+          "pinyin": "yǔyán",
+          "meaning": "ngôn ngữ"
+        },
+        {
+          "zh": "世界",
+          "pinyin": "shìjiè",
+          "meaning": "thế giới"
+        },
+        {
+          "zh": "有用",
+          "pinyin": "yǒuyòng",
+          "meaning": "hữu ích, có ích"
+        }
+      ]
+    },
+    {
+      "id": "L6_051",
+      "num": 51,
+      "code": "051",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 051 – CHÚNG TÔI ĐỀU LÀ BẠN",
+      "zh": "我们都是好朋友，互相帮助。",
+      "pinyin": "Wǒmen dōu shì hǎo péngyou, hùxiāng bāngzhù.",
+      "vi": "Chúng tôi đều là bạn tốt, giúp đỡ lẫn nhau.",
+      "chunks": [
+        {
+          "zh": "我们都是好朋友，",
+          "pinyin": "Wǒmen dōu shì hǎo péngyou,",
+          "meaning": "chúng tôi đều là bạn tốt,"
+        },
+        {
+          "zh": "互相帮助。",
+          "pinyin": "hùxiāng bāngzhù.",
+          "meaning": "giúp đỡ lẫn nhau."
+        }
+      ],
+      "notes": [
+        "<strong>Phó từ 都 (dōu):</strong> Đều, đứng trước động từ: <strong>都是 (đều là)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "朋友",
+          "pinyin": "péngyou",
+          "meaning": "bạn bè"
+        },
+        {
+          "zh": "都",
+          "pinyin": "dōu",
+          "meaning": "đều"
+        },
+        {
+          "zh": "互相帮助",
+          "pinyin": "hùxiāng bāngzhù",
+          "meaning": "giúp đỡ lẫn nhau"
+        }
+      ]
+    },
+    {
+      "id": "L6_052",
+      "num": 52,
+      "code": "052",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 052 – ĐI SIÊU THỊ MUA ĐỒ",
+      "zh": "下午我和妈妈去超市买东西。",
+      "pinyin": "Xiàwǔ wǒ hé māma qù chāoshì mǎi dōngxi.",
+      "vi": "Buổi chiều tôi và mẹ đi siêu thị mua sắm đồ.",
+      "chunks": [
+        {
+          "zh": "下午我和妈妈",
+          "pinyin": "Xiàwǔ wǒ hé māma",
+          "meaning": "chiều nay tôi và mẹ"
+        },
+        {
+          "zh": "去超市买东西。",
+          "pinyin": "qù chāoshì mǎi dōngxi.",
+          "meaning": "đi siêu thị mua đồ."
+        }
+      ],
+      "notes": [
+        "<strong>Từ viết tắt 超市:</strong> Rút gọn từ <strong>超级市场 (chāojí shìchǎng)</strong> = siêu thị."
+      ],
+      "vocab": [
+        {
+          "zh": "超市",
+          "pinyin": "chāoshì",
+          "meaning": "siêu thị"
+        },
+        {
+          "zh": "买",
+          "pinyin": "mǎi",
+          "meaning": "mua"
+        },
+        {
+          "zh": "妈妈",
+          "pinyin": "māma",
+          "meaning": "mẹ"
+        }
+      ]
+    },
+    {
+      "id": "L6_053",
+      "num": 53,
+      "code": "053",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 053 – CÔNG VIỆC Ở CÔNG TY",
+      "zh": "我爸爸在这家公司工作。",
+      "pinyin": "Wǒ bàba zài zhè jiā gōngsī gōngzuò.",
+      "vi": "Bố tôi làm việc ở công ty này.",
+      "chunks": [
+        {
+          "zh": "我爸爸",
+          "pinyin": "Wǒ bàba",
+          "meaning": "bố tôi"
+        },
+        {
+          "zh": "在这家公司工作。",
+          "pinyin": "zài zhè jiā gōngsī gōngzuò.",
+          "meaning": "làm việc ở công ty này."
+        }
+      ],
+      "notes": [
+        "<strong>Lượng từ 家 (jiā):</strong> Dùng cho công ty, cửa hàng, ngân hàng: <strong>一家公司 (một công ty)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "公司",
+          "pinyin": "gōngsī",
+          "meaning": "công ty"
+        },
+        {
+          "zh": "爸爸",
+          "pinyin": "bàba",
+          "meaning": "bố"
+        },
+        {
+          "zh": "工作",
+          "pinyin": "gōngzuò",
+          "meaning": "làm việc"
+        }
+      ]
+    },
+    {
+      "id": "L6_054",
+      "num": 54,
+      "code": "054",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 054 – HỎI MUA ĐỒ ĐẠC GÌ",
+      "zh": "你在超市买什么东西？",
+      "pinyin": "Nǐ zài chāoshì mǎi shénme dōngxi?",
+      "vi": "Bạn mua đồ gì ở trong siêu thị thế?",
+      "chunks": [
+        {
+          "zh": "你在超市",
+          "pinyin": "Nǐ zài chāoshì",
+          "meaning": "bạn ở siêu thị"
+        },
+        {
+          "zh": "买什么东西？",
+          "pinyin": "mǎi shénme dōngxi?",
+          "meaning": "mua món đồ gì?"
+        }
+      ],
+      "notes": [
+        "<strong>Danh từ 东西 (dōngxi):</strong> Nghĩa là 'đồ đạc, đồ vật'. Lưu ý nếu đọc là <em>dōngxī</em> thì mang nghĩa 'hướng đông và tây'."
+      ],
+      "vocab": [
+        {
+          "zh": "东西",
+          "pinyin": "dōngxi",
+          "meaning": "đồ; vật; thứ; đồ ăn; đồ đạc"
+        },
+        {
+          "zh": "买",
+          "pinyin": "mǎi",
+          "meaning": "mua"
+        }
+      ]
+    },
+    {
+      "id": "L6_055",
+      "num": 55,
+      "code": "055",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 055 – THỜI TIẾT HÔM NAY",
+      "zh": "今天河内的天气很好，不冷不热。",
+      "pinyin": "Jīntiān Hénèi de tiānqì hěn hǎo, bù lěng bú rè.",
+      "vi": "Hôm nay thời tiết Hà Nội rất đẹp, không lạnh không nóng.",
+      "chunks": [
+        {
+          "zh": "今天河内的天气很好，",
+          "pinyin": "Jīntiān Hénèi de tiānqì hěn hǎo,",
+          "meaning": "hôm nay thời tiết Hà Nội rất đẹp,"
+        },
+        {
+          "zh": "不冷不热。",
+          "pinyin": "bù lěng bú rè.",
+          "meaning": "không lạnh không nóng."
+        }
+      ],
+      "notes": [
+        "<strong>Thành ngữ thời tiết:</strong> <strong>不冷不热 (bù lěng bú rè)</strong>: khí hậu mát mẻ ôn hòa."
+      ],
+      "vocab": [
+        {
+          "zh": "天气",
+          "pinyin": "tiānqì",
+          "meaning": "thời tiết"
+        },
+        {
+          "zh": "今天",
+          "pinyin": "jīntiān",
+          "meaning": "hôm nay"
+        },
+        {
+          "zh": "冷",
+          "pinyin": "lěng",
+          "meaning": "lạnh"
+        },
+        {
+          "zh": "热",
+          "pinyin": "rè",
+          "meaning": "nóng"
+        }
+      ]
+    },
+    {
+      "id": "L6_056",
+      "num": 56,
+      "code": "056",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 056 – ĐỌC SÁCH THƯ VIỆN",
+      "zh": "下午我们去图书馆看书、借书。",
+      "pinyin": "Xiàwǔ wǒmen qù túshūguǎn kàn shū, jiè shū.",
+      "vi": "Buổi chiều chúng tôi đến thư viện đọc sách và mượn sách.",
+      "chunks": [
+        {
+          "zh": "下午我们去图书馆",
+          "pinyin": "Xiàwǔ wǒmen qù túshūguǎn",
+          "meaning": "buổi chiều chúng tôi đi thư viện"
+        },
+        {
+          "zh": "看书、借书。",
+          "pinyin": "kàn shū, jiè shū.",
+          "meaning": "đọc sách, mượn sách."
+        }
+      ],
+      "notes": [
+        "<strong>Địa điểm có đuôi 馆 (guǎn):</strong> Nơi chốn lưu trữ, tiếp đón: <strong>图书馆 (thư viện)</strong>, <strong>饭馆 (quán ăn)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "图书馆",
+          "pinyin": "túshūguǎn",
+          "meaning": "thư viện"
+        },
+        {
+          "zh": "借",
+          "pinyin": "jiè",
+          "meaning": "mượn"
+        },
+        {
+          "zh": "看书",
+          "pinyin": "kàn shū",
+          "meaning": "đọc sách"
+        }
+      ]
+    },
+    {
+      "id": "L6_057",
+      "num": 57,
+      "code": "057",
+      "lesson": 6,
+      "category": "Nghi vấn",
+      "topic": "BÀI 6 · CÂU 057 – HỎI CHỦ NHÂN CẶP SÁCH",
+      "zh": "这个黑色的书包是谁的？",
+      "pinyin": "Zhè ge hēisè de shūbāo shì shéi de?",
+      "vi": "Chiếc cặp sách màu đen này là của ai?",
+      "chunks": [
+        {
+          "zh": "这个黑色的书包",
+          "pinyin": "Zhè ge hēisè de shūbāo",
+          "meaning": "chiếc cặp sách màu đen này"
+        },
+        {
+          "zh": "是谁的？",
+          "pinyin": "shì shéi de?",
+          "meaning": "là của ai?"
+        }
+      ],
+      "notes": [
+        "<strong>Chiết tự 书包:</strong> <strong>书 (sách) + 包 (túi, bao bọc)</strong> = cặp sách, ba lô học sinh."
+      ],
+      "vocab": [
+        {
+          "zh": "书包",
+          "pinyin": "shūbāo",
+          "meaning": "túi sách; cặp sách"
+        },
+        {
+          "zh": "黑色",
+          "pinyin": "hēisè",
+          "meaning": "màu đen"
+        }
+      ]
+    },
+    {
+      "id": "L6_058",
+      "num": 58,
+      "code": "058",
+      "lesson": 6,
+      "category": "Khẳng định",
+      "topic": "BÀI 6 · CÂU 058 – RỦ NHAU ĐI HIỆU SÁCH",
+      "zh": "我们去书店买几本中文书吧！",
+      "pinyin": "Wǒmen qù shūdiàn mǎi jǐ běn Zhōngwén shū ba!",
+      "vi": "Chúng mình cùng đến hiệu sách mua mấy cuốn sách tiếng Trung nhé!",
+      "chunks": [
+        {
+          "zh": "我们去书店",
+          "pinyin": "Wǒmen qù shūdiàn",
+          "meaning": "chúng mình đi nhà sách"
+        },
+        {
+          "zh": "买几本中文书吧！",
+          "pinyin": "mǎi jǐ běn Zhōngwén shū ba!",
+          "meaning": "mua mấy cuốn sách tiếng Trung nhé!"
+        }
+      ],
+      "notes": [
+        "<strong>Trợ từ ngữ khí 吧 (ba):</strong> Đứng cuối câu biểu thị lời rủ rê, đề nghị thân mật (<em>...đi, nhé</em>)."
+      ],
+      "vocab": [
+        {
+          "zh": "书店",
+          "pinyin": "shūdiàn",
+          "meaning": "nhà sách"
+        },
+        {
+          "zh": "买",
+          "pinyin": "mǎi",
+          "meaning": "mua"
+        },
+        {
+          "zh": "吧",
+          "pinyin": "ba",
+          "meaning": "nhé, đi"
+        }
+      ]
+    },
+    {
+      "id": "L6_059",
+      "num": 59,
+      "code": "059",
+      "lesson": 6,
+      "category": "Chính phản",
+      "topic": "BÀI 6 · CÂU 059 – NGUYÊN NHÂN HỌC TIẾNG TRUNG",
+      "zh": "因为汉语很有用，所以我认真学。",
+      "pinyin": "Yīnwèi Hànyǔ hěn yǒuyòng, suǒyǐ wǒ rènzhēn xué.",
+      "vi": "Bởi vì tiếng Hán rất hữu dụng, cho nên tôi chăm chỉ học.",
+      "chunks": [
+        {
+          "zh": "因为汉语很有用，",
+          "pinyin": "Yīnwèi Hànyǔ hěn yǒuyòng,",
+          "meaning": "bởi vì tiếng Hán rất hữu ích,"
+        },
+        {
+          "zh": "所以我认真学。",
+          "pinyin": "suǒyǐ wǒ rènzhēn xué.",
+          "meaning": "cho nên tôi học hành chăm chỉ."
+        }
+      ],
+      "notes": [
+        "<strong>Cặp liên từ nguyên nhân - kết quả:</strong> <strong>因为... 所以... (Bởi vì... Cho nên...)</strong>."
+      ],
+      "vocab": [
+        {
+          "zh": "因为",
+          "pinyin": "yīnwèi",
+          "meaning": "bởi vì"
+        },
+        {
+          "zh": "所以",
+          "pinyin": "suǒyǐ",
+          "meaning": "cho nên"
+        },
+        {
+          "zh": "认真",
+          "pinyin": "rènzhēn",
+          "meaning": "chăm chỉ, nghiêm túc"
+        }
+      ]
+    },
+    {
+      "id": "L6_060",
+      "num": 60,
+      "code": "060",
+      "lesson": 6,
+      "category": "Chính phản",
+      "topic": "BÀI 6 · CÂU 060 – KẾT QUẢ THỜI TIẾT",
+      "zh": "因为今天天气不好，所以我不去公园。",
+      "pinyin": "Yīnwèi jīntiān tiānqì bù hǎo, suǒyǐ wǒ bú qù gōngyuán.",
+      "vi": "Bởi vì hôm nay thời tiết không tốt, cho nên tôi không đi công viên.",
+      "chunks": [
+        {
+          "zh": "因为今天天气不好，",
+          "pinyin": "Yīnwèi jīntiān tiānqì bù hǎo,",
+          "meaning": "bởi vì hôm nay thời tiết không tốt,"
+        },
+        {
+          "zh": "所以我不去公园。",
+          "pinyin": "suǒyǐ wǒ bú qù gōngyuán.",
+          "meaning": "cho nên tôi không đi công viên."
+        }
+      ],
+      "notes": [
+        "<strong>Cặp liên từ hoàn chỉnh:</strong> Dùng <strong>所以 (suǒyǐ)</strong> dẫn ra kết quả dẫn đến từ vế <em>因为</em> phía trước."
+      ],
+      "vocab": [
+        {
+          "zh": "所以",
+          "pinyin": "suǒyǐ",
+          "meaning": "cho nên"
+        },
+        {
+          "zh": "公园",
+          "pinyin": "gōngyuán",
+          "meaning": "công viên"
+        }
+      ]
+    }
+  ]
+}
